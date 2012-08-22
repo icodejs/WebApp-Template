@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "author": "xxx <xxx@xxx.com>",
+  "description": "",
+  "contributors": [
+    {
+      "name": "xxx",
+      "email": "xxx@xx.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xxxxxxxx.git"
+  },
+  "keywords": [
+    "xxx",
+    "xxx"
+  ],
+  "dependencies" : {
+    "xxx"   :  "*"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.8"
+  }
+}
