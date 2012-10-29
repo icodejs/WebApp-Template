@@ -1,27 +1,29 @@
 {
-  "name": "",
+  "name": "xx",
+  "subdomain": "xx",
   "version": "0.0.0",
-  "author": "xxx <xxx@xxx.com>",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jay Esco <icodejs@gmail.com>",
   "description": "",
-  "contributors": [
-    {
-      "name": "xxx",
-      "email": "xxx@xx.com"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/xxxxxxxx.git"
+    "url": "https://github.com/icodejs/xx"
   },
-  "keywords": [
-    "xxx",
-    "xxx"
-  ],
-  "dependencies" : {
-    "xxx"   :  "*"
+  "keywords": [],
+  "dependencies": {
+    "underscored": "0.1.x",
+    "express": "3.0.x",
+    "resourceful": "0.3.x",
+    "request": "~2.11.1",
+    "JSONSelect": "~0.4.0",
+    "ejs": "~0.8.3",
+    "redis": "~0.8.1",
+    "connect-redis": "~1.4.4",
+    "underscore.string": "~2.3.0"
   },
-  "license": "MIT",
-  "engine": {
+  "engines": {
     "node": ">=0.8"
   }
 }
